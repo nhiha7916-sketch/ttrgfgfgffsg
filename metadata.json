@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Cortis - AI Idol Chat",
+  "description": "Nền tảng trò chuyện nhập vai cùng các thành viên nhóm nhạc nam CORTIS. Trải nghiệm tương tác video call và hình ảnh độc quyền.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
